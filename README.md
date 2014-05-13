@@ -9,7 +9,6 @@ Validador de CPF e CNPJ.
 ``` python
 
   pip install cpf_cnpj
-  
 ```
 
 **Usage**
@@ -39,5 +38,4 @@ Validador de CPF e CNPJ.
   
   cnpj.validate()
   True
-  
 ```
