@@ -10,8 +10,7 @@ CPF e CNPJ
   cpf.cleaning()
   cpf.validate()
   
-  
-  cnpjf = Cnpj('97373439000100')
+  cnpj = Cnpj('97373439000100')
 
   cnpj.format()
   cnpj.cleaning()
