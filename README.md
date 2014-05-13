@@ -39,3 +39,12 @@ Validador de CPF e CNPJ.
   cnpj.validate()
   True
 ```
+
+**Tests**
+
+``` python
+
+  cd cpf_cnpj/tests
+
+  ./run_tests.sh
+```
